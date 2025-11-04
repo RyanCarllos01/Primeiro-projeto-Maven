@@ -1,0 +1,5 @@
+br\com\dio\mapper\UserMapper.class
+br\com\dio\mapper\UserMapperImpl.class
+br\com\dio\model\UserModel.class
+br\com\dio\dto\UserDTO.class
+br\com\dio\Main.class
